@@ -100,5 +100,3 @@ For now, let's try hosting our own server. Under the _http_ block, I will have a
 This server will be hosted on port 80 (http) and the browser address will be the user's IP address, as an underscore is used. For the files, the file is located in /file/location/directory and the file itself is named _website.html_.
 
 With that done, open a browser and enter your IP address. You should see your HTML website.
-
-**Your server is now hosted with nginx. Happy hosting!**
