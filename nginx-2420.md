@@ -35,7 +35,7 @@ To serve a custom HTML page, create a new file in the /var/www/html directory. Y
 
 bash
 Copy code
-sudo nano /var/www/html/index.html
+sudo vim /var/www/html/index.html
 Paste the following HTML code into the file:
 
 html
